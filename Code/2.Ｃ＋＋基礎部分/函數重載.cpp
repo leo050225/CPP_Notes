@@ -39,7 +39,7 @@ extern "C"{
     }
 #ifdef __cplusplus
 }
-#endif
+#endif;
 
 #if 0
 extern "C"
@@ -80,4 +80,4 @@ int main()
 
     return 0;
 }
-#endif
+#endif;
