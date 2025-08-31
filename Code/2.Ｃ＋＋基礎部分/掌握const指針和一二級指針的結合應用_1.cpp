@@ -66,7 +66,7 @@ int main()
 {
     int a = 10;
     int *p = &a;
-    int*const*q = &p;//int*sonct* <= int** 可以的！
+    int*const*q = &p;//int*const* <= int** 可以的！
 
     // int a = 10;
     // int *p = &a;
